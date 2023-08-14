@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @yohan-cnc
-- 👀 I’m interested in everything related with computer science
+- 👀 I’m interested in everything related to computer science
 - 🌱 I’m currently learning computer science at EPITA
