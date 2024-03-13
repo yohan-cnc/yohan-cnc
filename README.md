@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yohan and I'm Computer Science engineer student, from Toulouse, France.</h2>
+<h2 align="left">Hi 👋! My name is Yohan and I'm a Computer Science engineer student, from Toulouse, France.</h2>
 
 ###
 
